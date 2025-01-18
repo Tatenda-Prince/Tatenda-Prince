@@ -34,4 +34,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tatenda-prince&show_icons=true&locale=en" alt="tatenda-prince" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tatenda-prince&" alt="tatenda-prince" /></p>
