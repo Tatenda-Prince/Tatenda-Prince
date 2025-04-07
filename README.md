@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tatenda Prince Moyo</h1>
 <h3 align="center">A passionate Cloud/DevOps Engineer from Zimbabwe </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tatenda-prince" alt="tatenda-prince" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/tatendapri94335" target="blank"><img src="https://img.shields.io/twitter/follow/tatendapri94335?logo=twitter&style=for-the-badge" alt="tatendapri94335" /></a> </p>
 
 - 🌱 I’m currently learning **Docker and Kubernetes**
