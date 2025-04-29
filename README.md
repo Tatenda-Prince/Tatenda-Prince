@@ -55,7 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" title="Prometheus" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" title="Grafana" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/hashicorp_vault/hashicorp_vault-icon.svg" title="Vault" width="50" height="50"/>
 </p>
 
 #### 🧰 Dev Tools & IaC
