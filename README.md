@@ -7,7 +7,7 @@
 🤝 **Open to Collaborations:** Cloud Native & DevOps Projects  
 💬 **Ask me about:** AWS, CI/CD, Infrastructure as Code  
 📂 **My Work:** [GitHub Portfolio](https://github.com/Tatenda-Prince)  
-📫 **Let's connect:** tatendamoyo539@gmail.com  
+📫 **Let's connect:** www.linkedin.com/in/tatenda-moyo
 ⚽ **Fun Fact:** Big football fan — Forever Chelsea 💙  
 
 ---
